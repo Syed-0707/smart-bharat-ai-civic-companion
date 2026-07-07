@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/smart-bharat-ai-civic-companion/',
+  // base: '/smart-bharat-ai-civic-companion/',
 
   plugins: [
     react(),
